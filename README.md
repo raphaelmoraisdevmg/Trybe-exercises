@@ -1,0 +1,1 @@
+Exercicios feitos durante o tempo em que fui aluno da trybe.
