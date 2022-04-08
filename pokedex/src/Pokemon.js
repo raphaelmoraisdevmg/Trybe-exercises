@@ -15,9 +15,9 @@ class Pokemon extends React.Component{
     }
 }
 Pokemon.protoType ={
-    name:PropTypes.string,
-    type:PropTypes.string,
-    wheigh:PropTypes.string,
-    src:PropTypes.string,
+    name:PropTypes.string.isRequired,
+    type:PropTypes.string.isRequired,
+    wheigh:PropTypes.string.isRequired,
+    src:PropTypes.string.isRequired,
 };
 export default Pokemon
